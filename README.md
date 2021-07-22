@@ -1,8 +1,8 @@
-[![Slam](https://telegra.ph/file/019996f816db9ed576cff.jpg)](https://t.me/request_ayush)
+[![Slam](https://telegra.ph/file/73c2d04938bda4bec67a1.jpg)](https://t.me/DeepakV111)
 
-owner of this repo :- [AYUSH](https://github.com/ayushteke)
+owner of this repo :- [JOEY](https://t.me/DeepakV111)
 
-contact me :- [AYUSH](https://t.me/request_ayush)
+contact me :- [JOEY](https://t.me/DeepakV111)
 
 # Slam Mirror Bot
 This is a telegram bot writen in python for mirroring files on the internet to our beloved Google Drive.
@@ -62,8 +62,8 @@ Deploying is pretty much straight forward and is divided into several steps as f
 
 - Clone this repo:
 ```
-git clone https://github.com/ayushteke/slam_aria_mirror_bot_HEROKU/
-cd slam_aria_mirror_bot_HEROKU
+git clone https://github.com/SeriesZone101/Aria-Mirror-Bot-HEROKU/
+cd Aria-Mirror-Bot-HEROKU
 ```
 
 - Install requirements
@@ -238,5 +238,5 @@ Thanks to:
 - [iamLiquidX](https://github.com/iamLiquidX/) for Speedtest module
 - [ydner](https://github.com/ydner/) for Usage module
 - [breakdowns](https://github.com/breakdowns) for main repo
-- [ayush](https://github.com/ayushteke) for nothing
+- [Joey](https://t.me/DeepakV111) 
 
